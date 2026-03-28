@@ -52,5 +52,5 @@ Código proprietário relacionado ao TorumHunter e TorumAcademy é de uso restri
 ---
 
 <p align="center">
-  <sub>Made in Brazil 🇧🇷 · TorumSecurity © 2024</sub>
+  <sub>Made in Brazil 🇧🇷 · TorumSecurity © 2026</sub>
 </p>
