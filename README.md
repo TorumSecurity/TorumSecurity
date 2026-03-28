@@ -1,6 +1,6 @@
 # TorumSecurity
 
-> Inteligência de ameaças e segurança ofensiva para empresas que não podem se dar ao luxo de ser surpreendidas.
+> Inteligência para antecipar, investigar e decidir.
 
 ---
 
